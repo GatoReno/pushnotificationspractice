@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmPOD8ACpA8xdDs5pcDmfBpd+hRijNWmfY8g4+Gqn5l3Bo3MnPQhgGHZdKFkxv6JSSpslViR3/s3Gn9P8ziVSw==",
+  "success": true,
+  "projectFilePath": "/Users/dmn/Projects/AptivistPush/AptivistPush/AptivistPush.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmn/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/plugin.firebasepushnotification/3.3.10/plugin.firebasepushnotification.3.3.10.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.forms/4.8.0.1560/xamarin.forms.4.8.0.1560.nupkg.sha512"
+  ],
+  "logs": []
+}

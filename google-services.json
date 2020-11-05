@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "504817934020",
+    "firebase_url": "https://test-16d10.firebaseio.com",
+    "project_id": "test-16d10",
+    "storage_bucket": "test-16d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504817934020:android:8ad469e4a11e4a81393391",
+        "android_client_info": {
+          "package_name": "com.elevensource.aptivistpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504817934020-b4cn60t0rbkgp1s96qiqqqu3tk0u6mos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWx77gv8Uz8Ch6s7eotODJgqBKdyXbNpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504817934020-b4cn60t0rbkgp1s96qiqqqu3tk0u6mos.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504817934020-jp3ejfp99oo702b52av49tgcoj8cdtaj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elevensource.aptivistpush"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

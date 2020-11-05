@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{25169FD0-FF5D-4EA6-ACA9-3F72A138DAD0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AptivistPush/App.xaml.cs">
+    <Files>
+      <File FileName="AptivistPush/App.xaml.cs" Line="20" Column="52" />
+      <File FileName="AptivistPush.iOS/AppDelegate.cs" />
+      <File FileName="AptivistPush.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AptivistPush" expanded="True">
+            <Node name="AptivistPush" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="AptivistPush.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="AptivistPush.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AptivistPush.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B033EDFF-BA41-459A-AE9C-76E704510BC8" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dmn/Projects/AptivistPush/AptivistPush/App.xaml.cs" relfile="AptivistPush/App.xaml.cs" line="24" column="1" />
+      <Breakpoint file="/Users/dmn/Projects/AptivistPush/AptivistPush.iOS/AppDelegate.cs" relfile="AptivistPush.iOS/AppDelegate.cs" line="47" column="1" />
+      <Breakpoint file="/Users/dmn/Projects/AptivistPush/AptivistPush/App.xaml.cs" relfile="AptivistPush/App.xaml.cs" line="18" column="1" />
+      <Breakpoint file="/Users/dmn/Projects/AptivistPush/AptivistPush.iOS/AppDelegate.cs" relfile="AptivistPush.iOS/AppDelegate.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AptivistPush.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+</Properties>

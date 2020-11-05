@@ -1,0 +1,14 @@
+/Users/dmn/Projects/AptivistPush/AptivistPush/bin/Debug/netstandard2.0/AptivistPush.deps.json
+/Users/dmn/Projects/AptivistPush/AptivistPush/bin/Debug/netstandard2.0/AptivistPush.dll
+/Users/dmn/Projects/AptivistPush/AptivistPush/bin/Debug/netstandard2.0/ref/AptivistPush.dll
+/Users/dmn/Projects/AptivistPush/AptivistPush/bin/Debug/netstandard2.0/AptivistPush.pdb
+/Users/dmn/Projects/AptivistPush/AptivistPush/obj/Debug/netstandard2.0/AptivistPush.csprojAssemblyReference.cache
+/Users/dmn/Projects/AptivistPush/AptivistPush/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dmn/Projects/AptivistPush/AptivistPush/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dmn/Projects/AptivistPush/AptivistPush/obj/Debug/netstandard2.0/AptivistPush.AssemblyInfoInputs.cache
+/Users/dmn/Projects/AptivistPush/AptivistPush/obj/Debug/netstandard2.0/AptivistPush.AssemblyInfo.cs
+/Users/dmn/Projects/AptivistPush/AptivistPush/obj/Debug/netstandard2.0/AptivistPush.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/AptivistPush/AptivistPush/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dmn/Projects/AptivistPush/AptivistPush/obj/Debug/netstandard2.0/AptivistPush.dll
+/Users/dmn/Projects/AptivistPush/AptivistPush/obj/Debug/netstandard2.0/ref/AptivistPush.dll
+/Users/dmn/Projects/AptivistPush/AptivistPush/obj/Debug/netstandard2.0/AptivistPush.pdb

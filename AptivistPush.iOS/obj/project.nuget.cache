@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "0nAJAVfmujUDtba4cQoaFnrPDUEnjtnz17+jeWsCMrbZ4U0crz+0S5e6BiOdo671UTAm+/v4XO2U6aToE066Qg==",
+  "success": true,
+  "projectFilePath": "/Users/dmn/Projects/AptivistPush/AptivistPush.iOS/AptivistPush.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmn/.nuget/packages/plugin.firebasepushnotification/3.3.10/plugin.firebasepushnotification.3.3.10.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.build.download/0.10.0/xamarin.build.download.0.10.0.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.firebase.ios.cloudmessaging/4.3.0/xamarin.firebase.ios.cloudmessaging.4.3.0.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.firebase.ios.core/6.6.6/xamarin.firebase.ios.core.6.6.6.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.firebase.ios.installations/1.1.1/xamarin.firebase.ios.installations.1.1.1.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.firebase.ios.instanceid/4.3.3/xamarin.firebase.ios.instanceid.4.3.3.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.forms/4.8.0.1560/xamarin.forms.4.8.0.1560.nupkg.sha512"
+  ],
+  "logs": []
+}
